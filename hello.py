@@ -1,5 +1,5 @@
 a=int(input())
 if a==0:
-    print("привет")
+    print("здравствуйте")
 if a!=0:
     print('пока')
